@@ -1,0 +1,16 @@
+{
+  "manver" : "1",
+  "project" : "libindlog",
+  "description" : "A very rudimentary logging library",
+  "version" : "0.1.0",
+  "license" : "Apache 2.0",
+  "author" : "G.A. vd. Hoorn - TU Delft Robotics Institute",
+  "source" : [
+    "src/libindlog.kl"
+  ],
+  "includes" : [
+    "include"
+  ],
+  "depends" : [
+  ]
+}
